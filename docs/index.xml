@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 21:38:06 +0930</lastBuildDate>
     
 	<atom:link href="https://voranau.github.io/artstosociety/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CulturalExperience</title>
+      <link>https://voranau.github.io/artstosociety/blog/cultural-experience/</link>
+      <pubDate>Fri, 17 Jul 2020 21:38:06 +0930</pubDate>
+      
+      <guid>https://voranau.github.io/artstosociety/blog/cultural-experience/</guid>
+      <description>The standard Lorem Ipsum passage &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
