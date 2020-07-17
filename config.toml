@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Arts to Society"
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://voranau.github.io/artstosociety/"
 copyright = "© {year}"
 publishDir = "docs"
 # Add your Disqus shortname here.
