@@ -1,5 +1,5 @@
 ---
-title: "CulturalExperience"
+title: "Cultural Experience"
 date: 2020-07-17T21:38:06+09:30
 slug: "cultural-experience"
 description: ""
