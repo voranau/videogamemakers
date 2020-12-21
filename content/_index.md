@@ -1,5 +1,5 @@
 ---
-heading: "Video game makers' free time"
+heading: "Cultural participation of video game makers"
 subheading: "Hello, world!"
 description: "I interview video game makers from Australia studying their leisure time. Click [here](/about) to know more about the project and how to participate."
 ---
