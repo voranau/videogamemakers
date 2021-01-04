@@ -1,5 +1,5 @@
 ---
-heading: "Cultural participation of video game makers"
+heading: "Cultural participation of video game developers"
 subheading: "Hello, world!"
 description: "I interview video game developers studying their leisure time. Click [About](/about) to know more on the project and how to participate."
 ---

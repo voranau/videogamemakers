@@ -2,7 +2,7 @@
 title: "About the project"
 ---
 
-This website is dedicated to my research project undertaken at the University of South Australia. I interview video game developers, asking them about the following things:
+This website is dedicated to my research project undertaken at the University of South Australia. I am a Masters by Research student interviewing video game developers and asking them about the following things:
 
 * how your leisure looks like,
 * what activities you prefer,
