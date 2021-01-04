@@ -10,6 +10,8 @@ publishdir = "docs"
   author = "Raman Voranau"
   description = "I interview video game makers from Australia studying their leisure time."
   favicon = "favicon.ico"
+  twitter = "https://twitter.com/ramanvoranau"
+  github = "https://github.com/voranau"
   [params.footer]
     text = "By Raman Voranau"
     url = "https://github.com/voranau"
