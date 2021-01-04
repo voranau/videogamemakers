@@ -36,12 +36,12 @@ publishdir = "docs"
     name = "About"
     url = "/about"
     weight = 3
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    title = "Blog"
-    url = "/blog"
-    weight = 2
+  # [[menu.main]]
+  #   identifier = "blog"
+  #   name = "Blog"
+  #   title = "Blog"
+  #   url = "/blog"
+  #   weight = 6
   [[menu.main]]
     identifier = "home"
     name = "Home"
