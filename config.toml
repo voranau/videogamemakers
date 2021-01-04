@@ -10,6 +10,9 @@ publishdir = "docs"
   author = "Raman Voranau"
   description = "I interview video game makers from Australia studying their leisure time."
   favicon = "favicon.ico"
+  twitter = "https://twitter.com/ramanvoranau"
+  github = "https://github.com/voranau"
+  showPageTitleInTOC = false
   [params.footer]
     text = "By Raman Voranau"
     url = "https://github.com/voranau"
@@ -19,18 +22,28 @@ publishdir = "docs"
 
 [menu]
   [[menu.main]]
+    identifier = "researcher"
     name = "Researcher"
     url = "/researcher"
-    weight = 4
+    weight = 5
   [[menu.main]]
+    identifier = "team"
     name = "Team"
     url = "/team"
-    weight = 3
+    weight = 4
   [[menu.main]]
+    identifier = "about"
     name = "About"
     url = "/about"
+    weight = 3
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    title = "Blog"
+    url = "/blog"
     weight = 2
   [[menu.main]]
+    identifier = "home"
     name = "Home"
     url = "/"
     weight = 1

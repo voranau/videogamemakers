@@ -18,7 +18,7 @@ This website is dedicated to my research project undertaken at the University of
 
 ## Are you related to video game industry?
 
-I would love to hear your thoughts. Please, let me know by the email: raman.voranau@mymail.unisa.edu.au<br> 
+I would love to hear your thoughts. Please, let me know by the email: raman.voranau@mymail.unisa.edu.au<br>
 Alternatively, fill the [3-minutes online form here](https://www.surveymonkey.com/r/C5J2WBW), and I will contact you.
 
 ## Do you know anyone from the community?
@@ -35,4 +35,4 @@ raman.voranau@mymail.unisa.edu.au<br>
 or fill the [3-minutes online form](https://www.surveymonkey.com/r/C5J2WBW) and I will connect with you soon.
 
 ![](/kelly-sikkema-PgToaHfQjq0-unsplash_optimized.jpg)
-<small>Photo by <a href="https://unsplash.com/@kellysikkema">Kelly Sikkema</a> on <a href="https://unsplash.com/">Unsplash</a></small>
+<small>Photo by <a style="color: #111;" href="https://unsplash.com/@kellysikkema">Kelly Sikkema</a> on <a style="color: #111;" href="https://unsplash.com/">Unsplash</a></small>
