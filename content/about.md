@@ -6,11 +6,11 @@ This website is dedicated to my research project undertaken at the University of
 
 * What does your leisure look like?
 * What leisure activities do you prefer?
-* What leisure activities are valuable to you?
+* What are the leisure activities valuable to you?
 
 ## Why is this important?
 
-1. The global health pandemic has affected work and leisure activities. It is further blurring the border between work and leisure causing us to question the value of [meaningful](https://theconversation.com/exhausted-by-2020-here-are-5-ways-to-recover-and-feel-more-rested-throughout-2021-152608s) leisure experiences. For video game developers, it was often [hard to define](https://journal.transformativeworks.org/index.php/twc/article/download/73/76?inline=1?inline=1) where the work ends, and free time starts.
+1. The global health pandemic has affected work and leisure activities. It is further blurring the border between work and leisure, causing us to question the value of [meaningful](https://theconversation.com/exhausted-by-2020-here-are-5-ways-to-recover-and-feel-more-rested-throughout-2021-152608s) leisure experiences.
 
 2. Leisure activities contribute in [different ways](https://link.springer.com/article/10.1007/s10902-013-9435-x) to reducing stress, creating quality of life and enhancing well-being. You can achieve more meaningful leisure experiences, [customising](https://theconversation.com/exhausted-by-2020-here-are-5-ways-to-recover-and-feel-more-rested-throughout-2021-152608) your free time. I am interested in how you do that as a person in a creative role.
 
@@ -27,9 +27,9 @@ If you know anyone from the video game makers community and you think they would
 
 ## The last thing
 
-This project will benefit you because I am happy to send a copy of the report or provide you with informal feedback on how to conduct meaningful leisure activities in global pandemic. 
+This project will benefit you because I am happy to send a copy of the report or provide you with informal feedback on conducting meaningful leisure activities in a global pandemic. 
 
-I will also share with you the publications from this study that might interest you. Here is a [link](https://www.taylorfrancis.com/chapters/digital-workers-well-being-networking-grant-hall-raman-voranau-ruth-rentschler/e/10.4324/9780429329852-17) to current work what I’ve done with [Grant Hall](https://www.linkedin.com/in/glhall/), [Prof Ruth Rentschler](https://people.unisa.edu.au/ruth.rentschler) and I did about the transformational effects of Burning Man festival.
+I will also share with you the publications from this study that might interest you. Here is a [link](https://www.taylorfrancis.com/chapters/digital-workers-well-being-networking-grant-hall-raman-voranau-ruth-rentschler/e/10.4324/9780429329852-17) to current work what I have done with [Grant Hall](https://www.linkedin.com/in/glhall/) and [Prof Ruth Rentschler](https://people.unisa.edu.au/ruth.rentschler) on the transformational effects of Burning Man festival.
 
 ## Contact me
 
