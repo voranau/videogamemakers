@@ -29,7 +29,7 @@ If you know anyone from the video game makers community and you think they would
 
 This project will benefit you because I am happy to send a copy of the report or provide you with informal feedback on conducting meaningful leisure activities in a global pandemic. 
 
-I will also share with you the publications from this study that might interest you. Here is a [link](https://www.taylorfrancis.com/chapters/digital-workers-well-being-networking-grant-hall-raman-voranau-ruth-rentschler/e/10.4324/9780429329852-17) to current work what I have done with [Grant Hall](https://www.linkedin.com/in/glhall/) and [Prof Ruth Rentschler](https://people.unisa.edu.au/ruth.rentschler) on the transformational effects of Burning Man festival.
+I will also share with you the publications from this study that might interest you. Here is a [link](https://www.taylorfrancis.com/chapters/digital-workers-well-being-networking-grant-hall-raman-voranau-ruth-rentschler/e/10.4324/9780429329852-17) to the current work what I have done with [Grant Hall](https://www.linkedin.com/in/glhall/) and [Prof Ruth Rentschler](https://people.unisa.edu.au/ruth.rentschler) on the transformational effects of Burning Man festival.
 
 ## Contact me
 
