@@ -16,7 +16,7 @@ This website is dedicated to my research project undertaken at the University of
 
 3. Typical leisure activities [can vary](https://journals.sagepub.com/doi/full/10.1177/0038038518772737) for people from different occupations. What meaningful leisure activity is can be specific for a video game developer.
 
-## Are you engaged with the video game industry?
+## Are you engaged with the Australia's video game industry?
 
 Are you a digital artist, a game designer, a software engineer, or a creative director? I would love to hear your thoughts. Please, let me know by the email: raman.voranau@mymail.unisa.edu.au<br>
 Alternatively, fill the [3-minutes online form here](https://www.surveymonkey.com/r/C5J2WBW), and I will contact you.
