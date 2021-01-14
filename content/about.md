@@ -14,7 +14,7 @@ This website is dedicated to my research project undertaken at the University of
 
 2. Leisure activities contribute in [different ways](https://link.springer.com/article/10.1007/s10902-013-9435-x) to reducing stress, creating quality of life and enhancing well-being. You can achieve more meaningful leisure experiences, [customising](https://theconversation.com/exhausted-by-2020-here-are-5-ways-to-recover-and-feel-more-rested-throughout-2021-152608) your free time. I am interested in how you do that as a person in a creative role.
 
-3. Typical leisure activities [can vary](https://journals.sagepub.com/doi/full/10.1177/0038038518772737) for people from different occupations. What meaningful leisure activity is can be specific for a video game developer.
+3. Typical leisure activities [can vary](https://journals.sagepub.com/doi/full/10.1177/0038038518772737) for people from different occupations. Meaningful leisure activities can be specific for a video game developer.
 
 ## Are you engaged with the Australia's video game industry?
 
