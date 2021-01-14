@@ -1,7 +1,7 @@
 baseURL = "https://videogamemakers.page/"
 theme = "hugo-theme-codex"
 languageCode = "en-us"
-title = "Cultural participation of video game makers"
+title = "Leisure activities of video game developers"
 enableEmoji = true
 copyright = "© 2020−2021. Raman Voranau, raman.voranau@mymail.unisa.edu.au"
 publishdir = "docs"
