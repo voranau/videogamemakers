@@ -25,7 +25,7 @@ Alternatively, fill the [3-minutes online form here](https://www.surveymonkey.co
 
 If you know anyone from the video game makers community and you think they would be happy from me to interview, please, send them the link on this website.
 
-## The last thing
+## How can I help?
 
 This project will benefit you because I am happy to send a copy of the report or provide you with informal feedback on conducting meaningful leisure activities in a global pandemic. 
 
