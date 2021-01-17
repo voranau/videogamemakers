@@ -19,7 +19,7 @@ This website is dedicated to my research project undertaken at the University of
 ## Are you engaged with the Australia's video game industry?
 
 Are you a digital artist, a game designer, a software engineer, or a creative director? I would love to hear your thoughts. Please, let me know by the email: raman.voranau@mymail.unisa.edu.au<br>
-Alternatively, fill the [3-minutes online form here](https://www.surveymonkey.com/r/C5J2WBW), and I will contact you.
+Alternatively, fill the [2-minutes online form here](https://www.surveymonkey.com/r/C5J2WBW), and I will contact you.
 
 ## How else could you help? 
 
@@ -34,7 +34,7 @@ I will also share with you the publications from this study that might interest 
 ## Contact me
 
 raman.voranau@mymail.unisa.edu.au<br>
-or fill the [3-minutes online form](https://www.surveymonkey.com/r/C5J2WBW) and I will connect with you soon.
+or fill the [2-minutes online form](https://www.surveymonkey.com/r/C5J2WBW) and I will connect with you soon.
 
 ![](/kelly-sikkema-PgToaHfQjq0-unsplash_optimized.jpg)
 <small>Photo by <a style="color: #111;" href="https://unsplash.com/@kellysikkema">Kelly Sikkema</a> on <a style="color: #111;" href="https://unsplash.com/">Unsplash</a></small>
