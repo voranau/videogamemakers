@@ -3,50 +3,51 @@ theme = "hugo-theme-codex"
 languageCode = "en-us"
 title = "Leisure activities of video game developers"
 enableEmoji = true
-copyright = "© 2020−2021. Raman Voranau, raman.voranau@mymail.unisa.edu.au"
+copyright = "© 2020−2025. Raman Voranau, raman.voranau@mymail.unisa.edu.au"
 publishdir = "docs"
 
 [params]
-  author = "Raman Voranau"
-  description = "I interview video game makers from Australia studying their leisure time."
-  favicon = "favicon.ico"
-  twitter = "https://twitter.com/ramanvoranau"
-  github = "https://github.com/voranau"
-  showPageTitleInTOC = false
-  [params.footer]
-    text = "By Raman Voranau"
-    url = "https://github.com/voranau"
+author = "Raman Voranau"
+description = "I interview video game makers from Australia studying their leisure time."
+favicon = "favicon.ico"
+twitter = "https://twitter.com/ramanvoranau"
+github = "https://github.com/voranau"
+showPageTitleInTOC = false
+[params.footer]
+text = "By Raman Voranau"
+url = "https://github.com/voranau"
 
 [permalinks]
-  "/" = "/:filename"
+"/" = "/:filename"
 
 [menu]
-  [[menu.main]]
-    identifier = "researcher"
-    name = "Researcher"
-    url = "/researcher"
-    weight = 5
-  [[menu.main]]
-    identifier = "team"
-    name = "Team"
-    url = "/team"
-    weight = 4
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 3
-  # [[menu.main]]
-  #   identifier = "blog"
-  #   name = "Blog"
-  #   title = "Blog"
-  #   url = "/blog"
-  #   weight = 6
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+[[menu.main]]
+identifier = "researcher"
+name = "Researcher"
+url = "/researcher"
+weight = 5
+[[menu.main]]
+identifier = "team"
+name = "Team"
+url = "/team"
+weight = 4
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 3
+# [[menu.main]]
+#   identifier = "blog"
+#   name = "Blog"
+#   title = "Blog"
+#   url = "/blog"
+#   weight = 6
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
 
 [markup.goldmark.renderer]
-  unsafe = true  # allow raw HTML in markdown files
+unsafe = true # allow raw HTML in markdown files
+
