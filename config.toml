@@ -27,11 +27,6 @@ name = "Researcher"
 url = "/researcher"
 weight = 5
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about"
-weight = 3
-[[menu.main]]
 identifier = "home"
 name = "Home"
 url = "/"
