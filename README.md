@@ -35,3 +35,10 @@ $ git push
 ## Publishing
 
 See [GitHub Pages](https://pages.github.com).
+
+## Local Setup
+
+```shell
+$ CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@v0.81.0
+$ hugo server
+```
