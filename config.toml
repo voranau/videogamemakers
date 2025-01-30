@@ -1,7 +1,7 @@
 baseURL = "https://videogamemakers.page/"
 theme = "hugo-theme-codex"
 languageCode = "en-us"
-title = "Leisure activities of video game developers"
+title = "Effects of Public Funding in Indie Video Game Development: Australia and the UK"
 enableEmoji = true
 copyright = "© 2020−2025. Raman Voranau, raman.voranau@mymail.unisa.edu.au"
 publishdir = "docs"
